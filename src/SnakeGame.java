@@ -254,4 +254,5 @@ public class SnakeGame extends JPanel implements ActionListener {
             return Objects.hash(x, y);
         }
     }
+
 }

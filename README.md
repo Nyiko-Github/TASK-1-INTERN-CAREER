@@ -6,7 +6,7 @@ The Snake Game is a classic arcade game where the player controls a snake to eat
 ## How to Run
 To run the Snake Game:
 - Ensure you have Java installed on your system.
-- Clone or download the Snake Game project from [GitHub repository link].
+- Clone or download the Snake Game
 
 Open IntelliJ IDEA:
 1. Navigate to the project directory.

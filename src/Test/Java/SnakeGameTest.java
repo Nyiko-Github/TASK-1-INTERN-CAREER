@@ -7,7 +7,6 @@ import static org.junit.jupiter.api.Assertions.*;
  * The type Snake game test.
  */
 public class SnakeGameTest {
-
     private SnakeGame game;
 
     /**
